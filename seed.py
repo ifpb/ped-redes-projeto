@@ -2,7 +2,6 @@ import csv
 
 from model import Computer, Resource
 
-
 def loadComputers():
     computadores = []
     with open('csv/computadores.csv') as csv_file:

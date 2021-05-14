@@ -1,6 +1,3 @@
-import setuptools
-
-
 class Computer:
     def __init__(self, id, ip, increaseBand):
         self.id = id
